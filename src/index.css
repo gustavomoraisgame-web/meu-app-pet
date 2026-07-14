@@ -1,3 +1,5 @@
-#root {
-  width: 100%;
-}
+/*
+ * ARQUIVO LEGADO — Web only (Vite/React DOM).
+ * Não é utilizado pelo app React Native / Expo.
+ * Ver src/theme/ para o sistema de estilos do app nativo.
+ */
